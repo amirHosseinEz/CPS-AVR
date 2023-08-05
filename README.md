@@ -32,4 +32,3 @@ To get started with the project, follow these steps:
 3. Connect the microcontrollers using the SPI interface.
 4. Power on the system and interact with the keypad for password input and control the temperature and lighting.
 
-For detailed instructions and code, please refer to the project documentation.
