@@ -3,7 +3,7 @@ This is AVR project of Micro Processor course.
 
 # Smart Home CPS Project
 
-![Smart Home](Screenshot.png)
+![Smart Home](micro.png)
 
 ## Introduction
 In this project, we designed a simple Cyber-Physical System (CPS) using the Atmega32 microcontroller. The project consists of three main parts: Security, Temperature Control, and Lighting Control. The system utilizes embedded systems and cyber-physical systems principles to create a smart home environment.
